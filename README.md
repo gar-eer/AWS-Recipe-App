@@ -14,6 +14,8 @@ flowchart LR
   B -->|"public image GET"| S
 ```
 
+<img width="921" height="611" alt="awsarchitecturediagram" src="https://github.com/user-attachments/assets/5dce22c4-7fb5-42d0-be11-51d80701a08c" />
+
 ## Project layout
 
 - `schema.sql`: PostgreSQL tables, constraints, and indexes
